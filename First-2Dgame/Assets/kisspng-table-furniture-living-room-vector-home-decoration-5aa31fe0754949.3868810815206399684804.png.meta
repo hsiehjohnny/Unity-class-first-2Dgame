@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 5b560ba4fccd6e640b8b36eb0eef6e68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9129788916178403363
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_0
+  - first:
+      213: -2056909273143971949
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_1
+  - first:
+      213: 3694985933981162996
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_2
+  - first:
+      213: 985570993703670168
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_3
+  - first:
+      213: 2903908001487767174
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_4
+  - first:
+      213: 1594494873364823662
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_5
+  - first:
+      213: -2719396796441454760
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_6
+  - first:
+      213: -2855813168961492923
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_7
+  - first:
+      213: 2354845412271871085
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_8
+  - first:
+      213: -4087272897621506870
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_9
+  - first:
+      213: -1016949367337786392
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_10
+  - first:
+      213: -1544981286802614596
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_11
+  - first:
+      213: 5317498938748176471
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_12
+  - first:
+      213: 4425956975417088139
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_13
+  - first:
+      213: 8660497615019104269
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_14
+  - first:
+      213: 6663282538108549386
+    second: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1030
+        width: 39
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d84f471240fb46992325e555871c8
+      internalID: -9129788916178403363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 962
+        width: 38
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534efa35b7c400440aa28301baab0e15
+      internalID: -2056909273143971949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 992
+        width: 38
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d42c7b1151a62149aebd800e494739d
+      internalID: 3694985933981162996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1095
+        width: 408
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e589086bcaec214d84d7211322a5d10
+      internalID: 985570993703670168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 574
+        width: 317
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece074982c16b8b478943bb996b5ba26
+      internalID: 2903908001487767174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 832
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fde89a3a1309845a7b68deb425879b
+      internalID: 1594494873364823662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 571
+        width: 279
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e39ae149b57204f8e8dc7f13de7299
+      internalID: -2719396796441454760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 570
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b27707a3097c43857c30611b209ad
+      internalID: -2855813168961492923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 574
+        width: 607
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2a771bddfb8584fb9c410fa3596641
+      internalID: 2354845412271871085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 430
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f316fb9574bf5824d8616618c695bd45
+      internalID: -4087272897621506870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 429
+        width: 121
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb05bd6656bc3c5418aa18eac055cf99
+      internalID: -1016949367337786392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 153
+        width: 249
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f197165ffcbb8844b6aeb05e52046ff
+      internalID: -1544981286802614596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 149
+        width: 309
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8882ab7e9e54cb540bd003a3e740683f
+      internalID: 5317498938748176471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 150
+        width: 117
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6b3765c3cf1147bd9f32feb89f026
+      internalID: 4425956975417088139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 150
+        width: 370
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493561e754417d24e97a1b71a5cfaced
+      internalID: 8660497615019104269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-table-furniture-living-room-vector-home-decoration-5aa31fe0754949.3868810815206399684804_15
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 150
+        width: 113
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c6f2a24ff64c6488fb10bbe2e080b0
+      internalID: 6663282538108549386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
